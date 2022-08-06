@@ -1,12 +1,12 @@
 /* styles go here */
 .input {
-  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.input:last-child {
+  margin-bottom: 0;
 }
 
 .fieldset {
-  margin-top: 20px;
-}
-
-.submit {
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
